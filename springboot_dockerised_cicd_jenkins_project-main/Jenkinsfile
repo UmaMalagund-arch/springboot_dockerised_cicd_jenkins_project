@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = "umamalagund9620/my-spring-app"  // change this to DOCKERHUB_USERNAME
-        APP_SERVER_IP = "13.203.94.209"             // change this to app_server_public_ip
+        APP_SERVER_IP = "15.207.105.210"             // change this to app_server_public_ip
     }
 
     stages {
